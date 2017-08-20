@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-uvmeter-test-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_monitoring.xml",
+        "source": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-uvmeter-test-app\\app\\src\\main\\res\\layout\\activity_monitoring.xml"
+    },
+    {
+        "merged": "D:\\coding\\Android\\THIS IS THE APP\\android-uvmeter-test-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_monitoring.xml",
+        "source": "D:\\coding\\Android\\THIS IS THE APP\\android-uvmeter-test-app\\app\\src\\main\\res\\layout\\activity_monitoring.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-beacon-library-reference-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_monitoring.xml",
+        "source": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-beacon-library-reference-master\\app\\src\\main\\res\\layout\\activity_monitoring.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-uvmeter-test-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ranging.xml",
+        "source": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-uvmeter-test-app\\app\\src\\main\\res\\layout\\activity_ranging.xml"
+    },
+    {
+        "merged": "D:\\coding\\Android\\THIS IS THE APP\\android-uvmeter-test-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ranging.xml",
+        "source": "D:\\coding\\Android\\THIS IS THE APP\\android-uvmeter-test-app\\app\\src\\main\\res\\layout\\activity_ranging.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-beacon-library-reference-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ranging.xml",
+        "source": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-beacon-library-reference-master\\app\\src\\main\\res\\layout\\activity_ranging.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-uvmeter-test-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-uvmeter-test-app\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-beacon-library-reference-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-beacon-library-reference-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\THIS IS THE APP\\android-uvmeter-test-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\coding\\Android\\THIS IS THE APP\\android-uvmeter-test-app\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

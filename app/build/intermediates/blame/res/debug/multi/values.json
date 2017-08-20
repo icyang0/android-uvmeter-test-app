@@ -1,0 +1,200 @@
+[
+    {
+        "outputFile": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-beacon-library-reference-master\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-beacon-library-reference-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 52,
+                        "endOffset": 65
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-beacon-library-reference-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-beacon-library-reference-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-uvmeter-test-app\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-uvmeter-test-app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 52,
+                        "endOffset": 65
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-uvmeter-test-app\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "D:\\Dropbox\\blog\\UV sensor\\SW\\android app\\android-uvmeter-test-app\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\coding\\Android\\THIS IS THE APP\\android-uvmeter-test-app\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "D:\\coding\\Android\\THIS IS THE APP\\android-uvmeter-test-app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 52,
+                        "endOffset": 65
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "D:\\coding\\Android\\THIS IS THE APP\\android-uvmeter-test-app\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "D:\\coding\\Android\\THIS IS THE APP\\android-uvmeter-test-app\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

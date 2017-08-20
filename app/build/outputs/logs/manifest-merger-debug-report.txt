@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:2:5-44
+		INJECTED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.android.support:support-v4:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:20:5-39:19
+	android:label
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:9:9-45
+	android:theme
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:11:9-40
+	android:name
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:12:9-50
+activity#org.altbeacon.beaconreference.MonitoringActivity
+ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:13:9-20:20
+	android:label
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:14:13-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:17:5-57
+	android:name
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:17:13-54
+category#android.intent.category.LAUNCHER
+ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:18:27-74
+activity#org.altbeacon.beaconreference.RangingActivity
+ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:21:9-24:20
+	android:label
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml:22:13-73
+uses-sdk
+INJECTED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:12:9-52
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:15:9-58
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:18:22-78
+receiver#org.altbeacon.beacon.startup.StartupBroadcastReceiver
+ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:21:19-87
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:23:17-79
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:23:25-76
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:24:17-87
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:24:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:25:17-90
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:25:25-87
+service#org.altbeacon.beacon.service.BeaconService
+ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:29:9-34:38
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:31:13-35
+	android:label
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:34:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:32:13-37
+	android:isolatedProcess
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:30:13-70
+service#org.altbeacon.beacon.BeaconIntentProcessor
+ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.11-1-g16fac9d] D:\coding\Android\THIS IS THE APP\android-uvmeter-test-app\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.11-1-g16fac9d\AndroidManifest.xml:36:13-70
